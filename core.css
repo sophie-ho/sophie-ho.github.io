@@ -172,6 +172,25 @@ blockquote {
 	margin-top: -5px
 }
 
+.menu {
+	display: -webkit-flexbox;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
+	-webkit-flex-pack: justify;
+	-ms-flex-pack: justify;
+	-webkit-justify-content: space-between;
+	justify-content: space-between;
+	margin: 0 10px;
+}
+
+.menu .tab {
+
+}
+
 iframe {
 	margin: 45px 0 !important
 }
