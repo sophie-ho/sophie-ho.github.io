@@ -70,6 +70,9 @@ a {
 	text-decoration: underline;
 	border-bottom: 1px solid #555
 }
+a:link {
+	text-decoration: underline;
+}
 
 a.image {
 	display: block;
