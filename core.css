@@ -41,7 +41,7 @@ h6 {
 }
 
 h1 {
-	font-size: 2rem
+	font-size: 1.75rem
 }
 
 h2 {
@@ -412,7 +412,7 @@ article a:hover {
 }
 
 section {
-	max-width: 500px;
+	max-width: 650px;
 	margin: 0 auto 50px auto
 }
 
@@ -441,13 +441,6 @@ section ul li a {
 section ul li .post-date {
 	float: right;
 	margin: 0 0 0 20px
-}
-
-section ul li span {
-	display: inline-block;
-	color: #757575;
-	letter-spacing: 1px;
-	text-transform: uppercase
 }
 
 @media (min-width: 992px) {
